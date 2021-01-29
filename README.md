@@ -41,6 +41,10 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 * <a href="https://arxiv.org/abs/1806.10313">DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation
 </a>
 
+### Privacy Attacks & Defenses 
+* <a href="https://bair.berkeley.edu/blog/2019/08/13/memorization/">Evaluating and Testing Unintended Memorization in Neural Networks</a>
+* <a href="https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html">Privacy Considerations in Large Language Models</a>
+
 ## Neural Network Compression
 
 * <a href="https://arxiv.org/abs/1510.00149">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a>
