@@ -39,7 +39,6 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 
 * <a href="https://arxiv.org/abs/1806.10313">DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation
 </a>
-* <a href=""></a>
 
 ## Neural Network Compression
 
