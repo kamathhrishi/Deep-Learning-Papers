@@ -38,6 +38,11 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 
 * MAML: <a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
 
+## Multitask Learning
+
+* <a href="https://daiwk.github.io/assets/youtube-multitask.pdf">Recommending What Video to Watch Next: A Multitask Ranking System</a>
+* <a href="https://arxiv.org/pdf/1707.08114.pdf">A Survey on Multi-Task Learning</a>
+
 ## Zero shot Learning
 
 * <a href="https://arxiv.org/pdf/1707.00600.pdf">Zero-Shot Learning -- The Good, the Bad and the Ugly</a>
@@ -54,6 +59,7 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 * <a href="https://arxiv.org/abs/1909.12641">Active Federated Learning</a>
 * <a href="https://arxiv.org/abs/1712.01887">Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training</a>
 * <a href="https://arxiv.org/abs/1806.00582">Federated Learning with Non-IID Data</a>
+* <a href="https://arxiv.org/abs/1912.04977">Advances and Open Problems in Federated Learning</a>
 
 ### Model Security (Inference)
 
