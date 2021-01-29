@@ -25,6 +25,12 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 
 * MAML: <a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
 
+## Zero shot Learning
+
+* <a href="https://arxiv.org/pdf/1707.00600.pdf">Zero-Shot Learning -- The Good, the Bad and the Ugly</a>
+* <a href="https://arxiv.org/pdf/1803.11320.pdf">Transductive Unbiased Embedding for Zero-Shot Learning</a>
+* <a href="https://arxiv.org/abs/1704.08345">Semantic Autoencoder for Zero-Shot Learning</a>
+
 ## Privacy Preserving Learning
 
 ### Federated Learning: Data Security 
