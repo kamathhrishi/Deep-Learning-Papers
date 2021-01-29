@@ -5,21 +5,34 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 
 * <a href="https://arxiv.org/abs/1706.04599">On Calibration of Modern Neural Networks</a>
 * <a href="https://arxiv.org/abs/1611.03530">Understanding deep learning requires rethinking generalization</a>
-* <a href="https://arxiv.org/abs/1805.02641">Label Refinery: Improving ImageNet Classification through Label ProgressionCODE</a>
+* <a href="https://arxiv.org/abs/1805.02641">Label Refinery: Improving ImageNet Classification through Label Progression</a>
 
 
 ## Computer Vision 
 
 ### Imagenet Architectures 
 
-* Alexnet: <a href="https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html">ImageNet Classification with Deep Convolutional Neural Networks
-</a>
+* Alexnet: <a href="https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html">ImageNet Classification with Deep Convolutional Neural Networks</a>
+* VGG: <a href="https://arxiv.org/abs/1409.1556">Very Deep Convolutional Networks for Large-Scale Image Recognition</a>
+* Resnet: <a href="https://arxiv.org/abs/1512.03385">Deep Residual Learning for Image Recognition</a>
+* Densenet: <a href="https://arxiv.org/abs/1608.06993">Densely Connected Convolutional Networks</a>
+* Mobilenet: <a href="https://arxiv.org/abs/1704.04861">MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications</a>
+* Squeezenet: <a href="https://arxiv.org/abs/1602.07360">SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size</a>
 
 ### Weakly Supervised Object Detection 
 
 * <a href="https://arxiv.org/abs/1704.00138">Multiple Instance Detection Network with Online Instance Classifier Refinement</a>
 * <a href="https://arxiv.org/abs/1904.00551">Weakly Supervised Object Detection with Segmentation Collaboration</a>
-* <a href="https://arxiv.org/abs/1511.02853">Weakly Supervised Deep Detection Networks</a>
+* <a href="https://arxiv.org/abs/1511.02853">Weakly Supervised Deep Detection Networks</a> 
+
+### Understanding and Visualizing
+
+* <a href="https://arxiv.org/abs/1311.2901">Visualizing and Understanding Convolutional Networks</a>
+
+### Theoretical 
+
+* <a href="https://arxiv.org/abs/2010.15327">Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth
+</a>
 
 ## Meta Learning
 
