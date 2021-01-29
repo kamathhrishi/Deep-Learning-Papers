@@ -5,6 +5,7 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 
 * <a href="https://arxiv.org/abs/1706.04599">On Calibration of Modern Neural Networks</a>
 * <a href="https://arxiv.org/abs/1611.03530">Understanding deep learning requires rethinking generalization</a>
+* <a href="https://arxiv.org/abs/1805.02641">Label Refinery: Improving ImageNet Classification through Label ProgressionCODE</a>
 
 
 ## Computer Vision 
