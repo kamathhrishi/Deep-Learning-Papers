@@ -37,6 +37,7 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 ## Meta Learning
 
 * MAML: <a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
+* Reptile: <a href="https://openai.com/blog/reptile/">On First-Order Meta-Learning Algorithms</a>
 
 ## Multitask Learning
 
