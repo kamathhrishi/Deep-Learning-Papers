@@ -7,6 +7,9 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 * <a href="https://arxiv.org/abs/1611.03530">Understanding deep learning requires rethinking generalization</a>
 * <a href="https://arxiv.org/abs/1805.02641">Label Refinery: Improving ImageNet Classification through Label Progression</a>
 
+## Industrail Machine Learning
+
+* A Github Repository <a href="https://github.com/eugeneyan/applied-ml ">Repository</a> that did a great job curating resources
 
 ## Computer Vision 
 
