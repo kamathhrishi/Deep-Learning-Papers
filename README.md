@@ -46,6 +46,7 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 
 * <a href="https://daiwk.github.io/assets/youtube-multitask.pdf">Recommending What Video to Watch Next: A Multitask Ranking System</a>
 * <a href="https://arxiv.org/pdf/1707.08114.pdf">A Survey on Multi-Task Learning</a>
+* <a href="https://arxiv.org/pdf/1705.07115.pdf">Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics</a>
 
 ## Zero shot Learning
 
