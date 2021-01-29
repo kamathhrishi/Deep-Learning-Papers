@@ -31,11 +31,10 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 ### Understanding and Visualizing
 
 * <a href="https://arxiv.org/abs/1311.2901">Visualizing and Understanding Convolutional Networks</a>
+* <a href="https://arxiv.org/abs/2010.15327">Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth</a>
 
-### Theoretical 
-
-* <a href="https://arxiv.org/abs/2010.15327">Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth
-</a>
+## Faster Training
+* <a href="https://arxiv.org/pdf/1708.03888.pdf">LARGE BATCH TRAINING OF CONVOLUTIONAL NETWORKS</a> : Introduces adaptive layerwise learning rates. Different learning rates for different layers. 
 
 ## Meta Learning
 
