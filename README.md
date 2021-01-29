@@ -24,11 +24,27 @@ This repository consist of various Deep Learning papers sorted by subareas. I wi
 
 * MAML: <a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a>
 
-## Federated Learning
+## Privacy Preserving Learning
+
+### Federated Learning: Data Security 
 
 * <a href="https://arxiv.org/abs/1602.05629">Communication-Efficient Learning of Deep Networks from Decentralized Data</a>
 * <a href="https://arxiv.org/abs/1610.05492">Federated Learning: Strategies for Improving Communication Efficiency</a>
 * <a href="https://research.google/pubs/pub47246/">Practical Secure Aggregation for Privacy-Preserving Machine Learning</a>
+* <a href="https://arxiv.org/abs/1909.12641">Active Federated Learning</a>
+* <a href="https://arxiv.org/abs/1712.01887">Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training</a>
+* <a href="https://arxiv.org/abs/1806.00582">Federated Learning with Non-IID Data</a>
+
+### Model Security (Inference)
+
+* <a href="https://arxiv.org/abs/1806.10313">DeepObfuscation: Securing the Structure of Convolutional Neural Networks via Knowledge Distillation
+</a>
+* <a href=""></a>
 
 ## Neural Network Compression
+
+* <a href="https://arxiv.org/abs/1510.00149">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a>
+* <a href="https://arxiv.org/abs/1803.03635">The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a>
+* <a href="https://arxiv.org/abs/1503.02531">Distilling the Knowledge in a Neural Network</a>
+* <a href="https://arxiv.org/abs/1412.6550">FitNets: Hints for Thin Deep Nets</a>
 
