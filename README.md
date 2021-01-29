@@ -1,5 +1,5 @@
 # Deep-Learning-Papers [Incomplete List]
-This repository consist of various Deep Learning papers sorted by subareas. I will update this repository as I come across more papers. 
+This repository consist of various Deep Learning papers sorted by subareas. Currently this list is incomplete , I will add them overtime. I will also update this repository as I come across more papers that are interesting. Please feel free to make a pull request and add to the list.  
 
 ## General Deep Learning
 
