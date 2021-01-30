@@ -35,6 +35,7 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 
 ## Faster Training
 * <a href="https://arxiv.org/pdf/1708.03888.pdf">LARGE BATCH TRAINING OF CONVOLUTIONAL NETWORKS</a> : Introduces adaptive layerwise learning rates. Different learning rates for different layers. 
+* <a href="https://arxiv.org/abs/1910.00762">Accelerating Deep Learning by Focusing on the Biggest Losers</a>
 
 ## Meta Learning
 
