@@ -53,6 +53,11 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 * <a href="https://arxiv.org/pdf/1803.11320.pdf">Transductive Unbiased Embedding for Zero-Shot Learning</a>
 * <a href="https://arxiv.org/abs/1704.08345">Semantic Autoencoder for Zero-Shot Learning</a>
 
+## Bayesian Deep Learning
+
+* <a href="https://arxiv.org/abs/1506.02158">Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference</a>
+* <a href="https://arxiv.org/abs/1703.04977">What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?</a>
+
 ## Privacy Preserving Learning
 
 ### Federated Learning: Data Security 
