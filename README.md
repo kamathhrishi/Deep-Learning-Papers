@@ -11,6 +11,19 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 
 * A Github Repository <a href="https://github.com/eugeneyan/applied-ml ">Repository</a> that did a great job curating resources
 
+## Generalization 
+
+* <a href="https://arxiv.org/pdf/2005.14165.pdf">Do CIFAR-10 Classifiers Generalize to CIFAR-10?</a>
+
+## Natural Language Processing 
+
+### GPT
+
+* GPT-1: <a href="https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf">Improving Language Understanding
+by Generative Pre-Training</a>
+* GPT-2: <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners</a>
+* GPT-3: <a href="https://arxiv.org/pdf/2005.14165.pdf">Language Models are Few-Shot Learners</a>
+
 ## Computer Vision 
 
 ### Imagenet Architectures 
