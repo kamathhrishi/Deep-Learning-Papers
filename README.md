@@ -15,6 +15,10 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 
 * <a href="https://arxiv.org/pdf/2005.14165.pdf">Do CIFAR-10 Classifiers Generalize to CIFAR-10?</a>
 
+## Neural Architecture Search 
+
+* <a href="https://arxiv.org/abs/1910.11858">BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search</a>
+
 ## Explainability
 
 * <a href="https://dl.acm.org/doi/pdf/10.1145/3351095.3375624">Explainable Machine Learning in Deployment</a>
