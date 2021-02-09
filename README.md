@@ -107,6 +107,7 @@ by Generative Pre-Training</a>
 
 ## Neural Network Compression
 
+* <a href="https://arxiv.org/abs/1710.09282">A Survey of Model Compression and Acceleration for Deep Neural Networks</a>
 * <a href="https://arxiv.org/abs/1510.00149">Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding</a>
 * <a href="https://arxiv.org/abs/1803.03635">The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a>
 * <a href="https://arxiv.org/abs/1503.02531">Distilling the Knowledge in a Neural Network</a>
