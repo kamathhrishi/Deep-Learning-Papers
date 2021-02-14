@@ -3,6 +3,7 @@ This repository consist of various Deep Learning papers sorted by subareas. Curr
 
 ## General Deep Learning
 
+* <a href="https://arxiv.org/abs/2102.05242">Patterns, predictions, and actions: A story about machine learning</a>
 * <a href="https://arxiv.org/abs/1706.04599">On Calibration of Modern Neural Networks</a>
 * <a href="https://arxiv.org/abs/1611.03530">Understanding deep learning requires rethinking generalization</a>
 * <a href="https://arxiv.org/abs/1805.02641">Label Refinery: Improving ImageNet Classification through Label Progression</a>
