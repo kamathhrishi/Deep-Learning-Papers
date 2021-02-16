@@ -96,6 +96,7 @@ by Generative Pre-Training</a>
 * <a href="https://arxiv.org/abs/1712.01887">Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training</a>
 * <a href="https://arxiv.org/abs/1806.00582">Federated Learning with Non-IID Data</a>
 * <a href="https://arxiv.org/abs/1912.04977">Advances and Open Problems in Federated Learning</a>
+* <a href="https://arxiv.org/abs/2008.06217">Addressing Class Imbalance in Federated Learning</a>
 
 ### Model Security (Inference)
 
